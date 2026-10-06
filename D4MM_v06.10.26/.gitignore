@@ -1,0 +1,6 @@
+runs/
+*.out
+d4mm
+meas/
+__pycache__/
+.DS_Store
